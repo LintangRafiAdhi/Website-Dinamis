@@ -15,17 +15,17 @@
 ![Contact Page](ss46.png)
 
 ## Gambar Form
-![Form Page](ss/ss5.png)
+![Form Page](ss48.png)
 
 ## Gambar Form.php
-![Form PHP Page](ss/ss7.png)
+![Form PHP Page](form.png)
 
 ## Gambar Data Table
 ![Data Table Page](ss47.png)
 
 ## Gambar Datatables.php
-![Datatables PHP Page](ss/ss6.png)
+![Datatables PHP Page](datables.png)
 
 ## Gambar Index.php
-![Index PHP Page](ss/ss8.png)
+![Index PHP Page](index.png)
 
