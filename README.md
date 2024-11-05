@@ -6,10 +6,10 @@
 **Matkul**: Pemrograman Web 1  
 
 ## Gambar Halaman Home
-![Home Page](home)
+![Home Page](home.png)
 
 ## Gambar About
-![About Page](ss/ss2.png)
+![About Page](about.png)
 
 ## Gambar Contact
 ![Contact Page](ss/ss3.png)
