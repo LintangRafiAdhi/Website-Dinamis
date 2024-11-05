@@ -12,7 +12,7 @@
 ![About Page](about.png)
 
 ## Gambar Contact
-![Contact Page](ss/ss3.png)
+![Contact Page](ss46.png)
 
 ## Gambar Form
 ![Form Page](ss/ss5.png)
@@ -21,7 +21,7 @@
 ![Form PHP Page](ss/ss7.png)
 
 ## Gambar Data Table
-![Data Table Page](ss/ss4.png)
+![Data Table Page](ss47.png)
 
 ## Gambar Datatables.php
 ![Datatables PHP Page](ss/ss6.png)
@@ -29,10 +29,3 @@
 ## Gambar Index.php
 ![Index PHP Page](ss/ss8.png)
 
-## Deskripsi Proyek
-Website Statis ini merupakan proyek untuk mata kuliah Pemrograman Web 1. Proyek ini mencakup beberapa halaman yang menampilkan informasi dan form interaktif.
-
-## Instalasi
-1. Clone repositori ini:
-   ```bash
-   git clone https://github.com/username/repo-name.git
